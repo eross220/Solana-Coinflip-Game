@@ -1,1 +1,1 @@
-# Kob-game-coinflip
+# Solana Coinflip Game
